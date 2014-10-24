@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">宝宝成长日记</string>
+    <string name="baby_info">宝宝信息</string>
+    <string name="baby_event">宝宝事件</string>
+    <string name="action_new">新建</string>
+    <string name="action_more">更多</string>
+    <string name="action_done">完成</string>
+    <string name="action_menu_new">新建</string>
+    <string name="action_menu_delete">删除</string>
+    <string name="action_menu_edit">修改</string>
+    <string name="action_menu_info">宝宝信息</string>
+    <string name="action_menu_chart">图表展示</string>
+    <string name="action_menu_about">关于</string>
+
+</resources>

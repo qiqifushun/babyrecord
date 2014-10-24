@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="3dp" >
+
+    <TextView
+        android:id="@+id/baby_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="祁祁"
+        android:textColor="@color/gray" />
+
+    <TextView
+        android:id="@+id/baby_age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="2014-10-10(14天)"
+        android:textColor="@color/gray" />
+
+</LinearLayout>
